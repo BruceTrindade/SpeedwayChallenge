@@ -16,5 +16,6 @@ Exit
 His program should print only one line, containing only one integer, indicating the end point of Leonardo's training.
 
 restrictions
-1 ≤ C ≤ 10⁸
 1 ≤ N ≤ 100
+1 ≤ C ≤ 10⁸
+
